@@ -1,0 +1,154 @@
+Student Performance Prediction Using Machine Learning
+
+Project Title
+
+Student Performance Prediction Using Machine Learning
+
+
+
+Abstract
+
+Student Performance Prediction Using Machine Learning is a data-driven system designed to analyze student-related factors and predict academic performance. The system uses machine learning algorithms to identify patterns in attendance, study hours, previous academic records, assignments, and other educational factors. The prediction helps teachers and institutions identify students who may require additional support and enables early intervention to improve academic outcomes.
+
+
+
+Problem Statement
+
+Educational institutions often face challenges in identifying students who are at risk of poor academic performance. Traditional evaluation methods usually detect problems only after examinations are completed. There is a need for an intelligent system that can analyze student data and predict performance in advance, allowing educators to take proactive measures and improve student success rates.
+
+
+
+Project Objectives
+
+
+Collect and analyze student academic data.
+
+Preprocess and clean the dataset for machine learning.
+
+Build predictive models to estimate student performance.
+
+Identify key factors affecting academic success.
+
+Provide early warnings for students at academic risk.
+
+Assist educators in making data-driven decisions.
+
+
+
+Frontend Details
+
+Technologies
+
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Bootstrap
+
+
+Modules
+
+
+Login Page
+
+Student Data Entry Form
+
+Dataset Management
+
+Prediction Dashboard
+
+Performance Reports
+
+
+
+Backend Details
+
+Technologies
+
+
+Python
+
+Flask / Django
+
+Pandas
+
+NumPy
+
+Scikit-learn
+
+
+Functions
+
+
+Data Processing
+
+Model Training
+
+Prediction Generation
+
+Database Connectivity
+
+Report Generation
+
+
+
+Machine Learning Models List
+
+Model ID	Model Name	Purpose
+ML01	Linear Regression	Predict student scores
+ML02	Decision Tree	Classification and prediction
+ML03	Random Forest	Improved prediction accuracy
+ML04	Support Vector Machine (SVM)	Student performance classification
+ML05	K-Nearest Neighbors (KNN)	Similarity-based prediction
+ML06	Logistic Regression	Pass/Fail prediction
+
+
+Database Tables List
+
+1. Student Table
+
+Field Name	Data Type
+Student_ID	INT
+Name	VARCHAR
+Gender	VARCHAR
+Age	INT
+Department	VARCHAR
+
+2. Academic_Record Table
+
+Field Name	Data Type
+Record_ID	INT
+Student_ID	INT
+Previous_Marks	FLOAT
+Attendance	FLOAT
+Assignment_Score	FLOAT
+
+3. Prediction Table
+
+Field Name	Data Type
+Prediction_ID	INT
+Student_ID	INT
+Predicted_Score	FLOAT
+Performance_Level	VARCHAR
+
+
+Expected Output
+
+
+Predict student academic performance accurately.
+
+Identify low-performing students early.
+
+Improve educational decision-making.
+
+Enhance overall student success rates.
+
+
+
+Conclusion
+
+The Student Performance Prediction Using Machine Learning project helps educational institutions predict student outcomes using historical and current academic data. By applying machine learning algorithms, the system supports early intervention strategies and improves the quality of education through data-driven insights.
+
