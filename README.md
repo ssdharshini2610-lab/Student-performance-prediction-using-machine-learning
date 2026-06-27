@@ -104,6 +104,15 @@ Student-performance-prediction-using-machine-learning/
 
 ---
 
+---
+
+## Conclusion
+
+This project successfully demonstrates the use of Machine Learning to predict student academic performance. Using Linear Regression, the system analyzes student-related factors and estimates the final score. The project provides a simple frontend interface and serves as a foundation for future enhancements such as Flask integration, database connectivity, and deployment as a web application.
+
+---
+
 ## Author
 
 **Dharshini S S**
+
