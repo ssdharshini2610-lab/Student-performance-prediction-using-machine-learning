@@ -65,23 +65,19 @@ Developed a simple HTML and CSS-based interface for entering student details.
 ## Project Structure
 
 ```text
+
 Student-performance-prediction-using-machine-learning/
-│
 ├── database/
 ├── screenshots/
-├── templates/
-│   └── index.html
 ├── README.md
 ├── requirements.txt
-├── student_data.csv
-├── read_data.py
 ├── model.py
 ├── predict.py
+├── read_data.py
 ├── evaluation.py
+├── index.html
 ├── style.css
 ```
-
----
 
 ## Results
 
