@@ -1,0 +1,23 @@
+DOCTYPE html>
+<html>
+<head>
+    <title>Student Performance Prediction</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+    <h1>Student Performance Prediction</h1>
+
+    <label>Attendance:</label>
+    <input type="number"><br><br>
+
+    <label>Assignments:</label>
+    <input type="number"><br><br>
+
+    <label>Previous Marks:</label>
+    <input type="number"><br><br>
+
+    <button>Predict</button>
+
+</body>
+</html>
